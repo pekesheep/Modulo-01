@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label{
+    margin-top: 10px;
+    display: block;
+}
+
+input{
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border:1px solid rgb(187, 187, 187);
+}
+
+.data{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.container{
+    margin: auto;
+    width: 30%;
+}
+
+
+.avatar{
+    width: 100%;
+    height: 100%;
+}
+
+button{
+    cursor: pointer;
+    color: white;
+    width: 90px;
+    background-color: rgb(223, 190, 2);
+    border-color: transparent;
+    padding: 10px;
+    font-size: 16px;
+}
+.image{
+    margin: auto;
+    width: 100px;
+    height: 100px;
+
+}
